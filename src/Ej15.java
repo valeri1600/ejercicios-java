@@ -35,7 +35,6 @@ public class Ej15 {
         }
     }
 
-    // Método para mostrar el vector
     public static void mostrarVector(int[] vector) {
         System.out.println("Vector resultante:");
         for (int i = 0; i < vector.length; i++) {
