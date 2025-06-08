@@ -30,7 +30,7 @@ public class Ej10 {
         }
         
         
-        System.out.println("Palabras organizadas (colores primero):");
+        System.out.println("Palabras organizadas (colores primero) :");
         for (String palabra : resultado) {
             System.out.print(palabra + " ");
         }
