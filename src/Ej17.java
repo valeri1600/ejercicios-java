@@ -35,7 +35,6 @@ public class Ej17 {
         return contador;
     }
 
-    // Mostrar vector
     public static void mostrarVector(int[] vector, int longitud) {
         for (int i = 0; i < longitud; i++) {
             System.out.print(vector[i] + " ");
@@ -43,7 +42,6 @@ public class Ej17 {
         System.out.println();
     }
 
-    // Programa principal
     public static void main(String[] args) {
         int[] vector1 = new int[10];
         int[] vector2 = new int[10];
